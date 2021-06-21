@@ -14,3 +14,13 @@ The Model component corresponds to all the data-related logic that the user work
 
 ### Controller:
 > Controllers act as an interface between Model and View components to process all the business logic and incoming requests, manipulate data using the Model component and interact with the Views to render the final output.
+
+## Screen Shots Of Application
+<img src="https://user-images.githubusercontent.com/53576076/122712529-ac675780-d281-11eb-898d-d598d69d6c28.jpeg" width="500"/>
+<img src="" width="500"/>
+<img src="" width="500"/>
+<img src="" width="500"/>
+![WhatsApp Image 2021-06-21 at 11 09 29 AM](https://user-images.githubusercontent.com/53576076/122712529-ac675780-d281-11eb-898d-d598d69d6c28.jpeg)
+![WhatsApp Image 2021-06-21 at 11 09 29 AM (1)](https://user-images.githubusercontent.com/53576076/122712535-ad988480-d281-11eb-9edf-3513f28695f5.jpeg)
+![WhatsApp Image 2021-06-21 at 11 09 29 AM (2)](https://user-images.githubusercontent.com/53576076/122712538-ae311b00-d281-11eb-8821-45c55c4f4234.jpeg)
+![WhatsApp Image 2021-06-21 at 11 09 29 AM (3)](https://user-images.githubusercontent.com/53576076/122712542-aec9b180-d281-11eb-81be-2d7eba78e854.jpeg)
