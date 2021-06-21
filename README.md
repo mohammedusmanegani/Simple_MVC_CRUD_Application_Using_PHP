@@ -19,6 +19,7 @@ The Model component corresponds to all the data-related logic that the user work
 ### Home Page
 > This page contains Create Form and Read Form. With Status messages on operation performed.
 <img src="https://user-images.githubusercontent.com/53576076/122712529-ac675780-d281-11eb-898d-d598d69d6c28.jpeg" width="500"/>
+
 ### Another View
 > This page contains the Update and Delete Form. With Status messages on operation performed.
 <img src="https://user-images.githubusercontent.com/53576076/122712535-ad988480-d281-11eb-9edf-3513f28695f5.jpeg" width="500"/>
