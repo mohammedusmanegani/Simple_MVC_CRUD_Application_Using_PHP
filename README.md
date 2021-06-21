@@ -3,11 +3,13 @@ A Simple CRUD Application using MVC Architecture Implemented.
 
 <img src="https://www.researchgate.net/profile/Mjm-Razi-2/publication/328716094/figure/fig2/AS:688713864597504@1541213589083/Interaction-within-MVC-pattern-The-Model-component-correlates-with-all-the-data-related.ppm" width="500"/>
 
+> In MVC Architecture the User is Outer to the system and uses the controllers to manipulate, in turn the model updates our view for the requested user.
+
 ## Model–view–controller
 > Model–view–controller is a software design pattern commonly used for developing user interfaces that divides the related program logic into three interconnected elements.
 
 ### Model:
-The Model component corresponds to all the data-related logic that the user works with. This can represent either the data that is being transferred between the View and Controller components or any other business logic-related data.
+> The Model component corresponds to all the data-related logic that the user works with. This can represent either the data that is being transferred between the View and Controller components or any other business logic-related data.
 
 ### View:
 > The View component is used for all the UI logic of the application. For example, the Customer view will include all the UI components such as text boxes, dropdowns, etc. that the final user interacts with.
