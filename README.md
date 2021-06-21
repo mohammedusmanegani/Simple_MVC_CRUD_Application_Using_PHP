@@ -6,8 +6,8 @@ A Simple CRUD Application using MVC Architecture Implemented.
 > In MVC Architecture the User is Outer to the system and uses the controllers to manipulate, in turn the model updates our view for the requested user.
 
 ### Technologies and Languages Used in the CRUD Application are:
-> •	HTML
-  •	CSS
+> •	HTML\n
+  •	CSS\n
   •	PHP
   •	MySQL
   All Above things comes under XAMPP Stack.
