@@ -12,7 +12,7 @@ A Simple CRUD Application using MVC Architecture Implemented.
   •	MySQL
   All Above things comes under XAMPP Stack.
 
-> Above is the Full Working Code Snippet of a Simple CRUD Application implemented in MVC Architecture. #(NOT USED ANY AVAIABLE MVC FRAMEWORKS)
+> Above is the Full Working Code Snippet of a Simple CRUD Application implemented in MVC Architecture. (NOT USED ANY AVAIABLE MVC FRAMEWORKS)
 
 ## Model–view–controller
 > Model–view–controller is a software design pattern commonly used for developing user interfaces that divides the related program logic into three interconnected elements.
